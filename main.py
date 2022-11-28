@@ -5,3 +5,5 @@ hello()
 
 name = "Hodis"
 print("Hello")
+
+print("Jedeme")
